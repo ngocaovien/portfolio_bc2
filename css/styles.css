@@ -1,3 +1,27 @@
-p{
-  color:pink;
+.top_bar{
+    background-image: url("../img/light_tunnel.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom:450px;
 }
+.info{
+  height:200px;
+  width:200px;
+  display:flex;
+  justify-content: center;
+}
+.top_bar .info p{
+  background-color: #000000 (25%);
+  text-align: center;
+}
+.middle_bar{
+  background-image: url("../img/nintendo2.jpg");
+  background-size: cover;
+  background-position: center;
+  padding:250px;
+}
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
